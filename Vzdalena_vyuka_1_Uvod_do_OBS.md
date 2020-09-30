@@ -33,9 +33,10 @@ Zde jednak spouštíme vysílání a nahrávání, ale zároveň se zde můžeme
 
 ## Nastavení
 V sekci nastavení jsou pro nás většinou důležité pouze některé položky. Na kartě výstup to je především sekce nahrávání, kde je možné změnit destinaci a formát nahraného videa.
+![Nastavení obrazu](obr/vystup_upr.png)
 
 Po instalaci OBS samo nastaví (pokud dostane souhlas) doporučenou kvalitu nahrávání videa. To je dodatečně možné změnit v nastavení na kartě **Obraz**.
-![Nastavení obrazu](obr/video.png)
+![Nastavení obrazu](obr/video_upr.png)
 
 Na kartě zvuk je poté možno upravit ještě zařízení pro záznam zvuku. To je nutné zejména v případě že nepoužíváme výchozí mikrofon. 
-![Nastavení zvuku](obr/zvuk.png)
+![Nastavení zvuku](obr/zvuk_upr.png)
