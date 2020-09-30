@@ -58,7 +58,7 @@ Pro ukázku jsem sestavil dva [soubory](https://uloz.to/file/FwN7TwznPO8O/cantab
 ### ReaFir
 **Odstraňovač šumu** umožňující fungovat v několika módech. Z nich se jako nejlépe použitelný jeví mód **Subtract** odečítající předem nahraný vzorek šumu pozadí/mikrofonu. To se provede pomocí zaškrtnutí a odzaškrtnutí políčka **Automatically build noise profile**. To vytvoří profil šumu následně odečítaný od vstupu.
 
-![ReaFir](obr/1_ReaFir.png)
+![ReaFir](obr/1_reafir.png)
 
 ### TDR VOS SlickEQ
 Jednoduchý třípásmový **ekvalizér**. Je možné zvolit z několika "národních" možností tvaru ekvalizovaného pásma. Tímto pluginem je možné docílit lepší přirozenosti hlasu. Je potřeba si u tohoto pluginu dát pozor na extrémy. Dobrá ekvalizace je decentní: Používáme spíše širší pásma (bandwith) a nižší absolutní hodnoty zisku (gain).
