@@ -90,6 +90,9 @@ Na konec řetězce je možné zařadit tento **limiter**, který signál drží 
 
 ![LoudMax](obr/1_loudmax.png)
 
+## Problém se stabilitou
+Občas mají někteří uživatelé problém se stabilitou aplikace Cantabile Lite. Důvod tohoto mi není známý, ale osvědčeným lékem se zdá být spouštění aplikací v pořadí Cantabile - VoiceMeeter a ne naopak.
+
 ## Propojení s ostatním softwarem (OBS, MS Teams apod.)
 Pro propojení s jakýmkoli softwarem je pouze nutné nastavit jako mikrofonní vstup **VoiceMeeter Output (VB-Audio VoiceMeeter VAIO)**
 
