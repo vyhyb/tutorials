@@ -1,6 +1,6 @@
 Strukturovanější doplněk k videu 
 
-# Jak na vzdálenou výuku (část 2) - Jak vylepšit zvuk špatného mikrofonu
+# Jak na vzdálenou výuku (část 3) - Propojení OBS a MS Teams
 
 Po úvodu do OBS a poznámkách týkajících se zvuku se dostáváme k důležité kapitole: Jak využít OBS při výuce v reálném čase?
 
