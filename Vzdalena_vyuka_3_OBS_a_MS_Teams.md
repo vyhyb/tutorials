@@ -1,4 +1,4 @@
-Strukturovanější doplněk k videu 
+Strukturovanější doplněk k videu https://youtu.be/mHimbUEpHXE
 
 # Jak na vzdálenou výuku (část 3) - Propojení OBS a MS Teams
 
